@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-admin-ui/static/css/main.5819a3ba.css",
-    "main.js": "/react-admin-ui/static/js/main.1bb3e571.js",
+    "main.js": "/react-admin-ui/static/js/main.d0c5df29.js",
     "static/media/NftBanner1.png": "/react-admin-ui/static/media/NftBanner1.87062366f75bedd52bd2.png",
     "static/media/banner.png": "/react-admin-ui/static/media/banner.ef572d78f29b0fee0a09.png",
     "static/media/avatar4.png": "/react-admin-ui/static/media/avatar4.89eed0524ca3192abaf2.png",
@@ -23,10 +23,10 @@
     "index.html": "/react-admin-ui/index.html",
     "static/media/checked.svg": "/react-admin-ui/static/media/checked.eebdda355aff27593261.svg",
     "main.5819a3ba.css.map": "/react-admin-ui/static/css/main.5819a3ba.css.map",
-    "main.1bb3e571.js.map": "/react-admin-ui/static/js/main.1bb3e571.js.map"
+    "main.d0c5df29.js.map": "/react-admin-ui/static/js/main.d0c5df29.js.map"
   },
   "entrypoints": [
     "static/css/main.5819a3ba.css",
-    "static/js/main.1bb3e571.js"
+    "static/js/main.d0c5df29.js"
   ]
 }
