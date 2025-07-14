@@ -1,9 +1,6 @@
-Horizon UI TailwindCSS React ⚡️
-
-
 <body>
 
-  <h1>🚀 React Admin UI</h1>
+  <h1>🚀 React Admin UI ⚡️</h1>
   <p class="center">Built for performance, designed for simplicity.</p>
 
   <p class="center">
